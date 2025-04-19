@@ -81,3 +81,8 @@ JOIN Turma t ON t.Identificacao_turma = h.Identificacao_turma
 JOIN Disciplina d ON d.Numero_disciplina = t.Numero_disciplina
 WHERE Tipo_aluno = 2 AND Curso = 'CC';
 ```
+<div align="center">
+  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alicelspires.Database-University&left_color=grey&right_color=black&left_text=Visitors)
+
+</div> 
